@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Pepperoni Pizza</title>
+    </head>
+
+    <body>
+        <h1>Pepperoni Pizza</h1>
+
+        <a href="../index.html">Home</a>
+
+
+        <!-- <img src="./images/dog.jpg"height="420" width="310"> -->
+    </body>
+</html>
