@@ -1,0 +1,18 @@
+
+.header{
+    background-color: black;
+    color: yellow;
+}
+
+.subheader{
+    background-color: black;
+    color: red;
+}
+
+.text{
+
+    font-family: Helvetica,"Times New Roman" ,sans-serif;
+}
+.centre{
+    text-align: center;
+}
