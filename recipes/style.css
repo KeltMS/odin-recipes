@@ -1,18 +1,37 @@
 
-.header{
-    background-color: black;
-    color: yellow;
+*{
+    background-color: honeydew;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica,"Times New Roman" ,sans-serif;
 }
 
-.subheader{
+h1{
+    background-color: black;
+    color: yellow;
+    width: 500px;
+
+}
+
+
+h2{
+    background-color: black;
+    color: red;
+    width: 500px;
+}
+h3{
     background-color: black;
     color: red;
 }
 
-.text{
-
-    font-family: Helvetica,"Times New Roman" ,sans-serif;
-}
 .centre{
     text-align: center;
+    width: 400px;
+}
+.recipe-card-section{
+    border: solid black 2px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 8px;
+    width: 400px;
 }

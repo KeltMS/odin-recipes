@@ -1,8 +1,16 @@
 
+* {
+background-color: azure;
 
+}
 .header{
     background-color: black;
     color: yellow;
+    text-align: center;
+    margin: 36px;
+    padding: 24px;
+    font-size: 64px;
+    border: dashed yellow 4px;
 }
 
 .subheader{
@@ -13,4 +21,29 @@
 .text{
     text-align: center;
     font-family: Helvetica,"Times New Roman" ,sans-serif;
+
+    margin-left: 650px;
+    margin-right: 700px;
+    padding: 48px;
+    border: solid red 2px;
+    color: yellow;
+    font-size: 32px;
+    width: 500px;
+}
+.img-left{
+
+
+    float: left;
+    margin-top: -36px;
+
+}
+.img-right{
+
+    float: right;
+    margin-top: -36px;
+}
+
+a{
+
+
 }
